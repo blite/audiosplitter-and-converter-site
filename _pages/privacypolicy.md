@@ -6,6 +6,8 @@ include_in_header: false
 
 **Last updated**  
 April 1 2025
+
+
 **Privacy Policy**
 
 This privacy policy applies to the Audio Splitter and Converter app (hereby referred to as "Application") for mobile devices that was created by Ben Holloway (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
